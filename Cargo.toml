@@ -1,5 +1,4 @@
 [workspace]
 members = [
-    "methods",
-    "starter",
+    "starter"
 ]
